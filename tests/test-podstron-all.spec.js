@@ -72,6 +72,7 @@ for (const sitemap of sitemaps) {
       missingDescription: [],
       missingTitle: [],
       status404: [],
+      redirects: [],
       tooManyRedirects: []
     };
 
